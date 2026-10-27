@@ -9,7 +9,7 @@
 
 到 [Releases](../../releases) 下载最新版：
 
-- `PartStock-v0.7.0-x64-便携版.zip` —— 180.5 MB，解压即用，免安装、免 Node.js、不写注册表
+- `PartStock-v0.7.0-x64-portable.zip` —— 180.5 MB，解压即用，免安装、免 Node.js、不写注册表
 - 配套 `SHA256SUMS.txt` 用于校验
 
 ## 功能
